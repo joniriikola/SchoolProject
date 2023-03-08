@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/main.qml</file>
+        <file>ui/GraphMouseArea.qml</file>
+        <file>ui/GraphSaveUtility.qml</file>
+        <file>ui/LineGraph.qml</file>
+        <file>ui/GraphSaveFilePrompt.qml</file>
+        <file>ui/DrawerButton.qml</file>
+        <file>ui/ChartsView.qml</file>
+        <file>ui/WeatherForecast.qml</file>
+        <file>ui/WeatherMonthly.qml</file>
+        <file>ui/ElectricityForecast.qml</file>
+        <file>ui/ElectricityProdCons.qml</file>
+        <file>ui/ChartViewPane.qml</file>
+        <file>ui/icons/search.svg</file>
+        <file>ui/SearchBar.qml</file>
+        <file>ui/CalendarPopUp.qml</file>
+        <file>ui/DateField.qml</file>
+        <file>ui/icons/calendar.svg</file>
+        <file>ui/ElectricityProdMethods.qml</file>
+        <file>ui/EnergyProdForecast.qml</file>
+        <file>ui/WeatherHistory.qml</file>
+        <file>ui/BusyWheel.qml</file>
+        <file>ui/ElectricityProdDistr.qml</file>
+        <file>ui/PieGraph.qml</file>
+        <file>ui/GraphNoData.qml</file>
+        <file>ui/SavedDataSets.qml</file>
+        <file>ui/NameDialog.qml</file>
+        <file>ui/icons/icon.svg</file>
+        <file>ui/RealTimeData.qml</file>
+        <file>ui/ListViewElement.qml</file>
+        <file>ui/PresetPopUp.qml</file>
+    </qresource>
+</RCC>
